@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aubit.Vulcan.API", "Aubit.Vulcan.API\Aubit.Vulcan.API.csproj", "{F5DD454A-5352-4CDB-AE09-575773CD5506}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aubit.Vulcan.Tests", "Aubit.Vulcan.Tests\Aubit.Vulcan.Tests.csproj", "{17019D4E-4733-4BCA-B8EB-1A65DE0269B2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5DD454A-5352-4CDB-AE09-575773CD5506}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5DD454A-5352-4CDB-AE09-575773CD5506}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5DD454A-5352-4CDB-AE09-575773CD5506}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5DD454A-5352-4CDB-AE09-575773CD5506}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17019D4E-4733-4BCA-B8EB-1A65DE0269B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17019D4E-4733-4BCA-B8EB-1A65DE0269B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17019D4E-4733-4BCA-B8EB-1A65DE0269B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17019D4E-4733-4BCA-B8EB-1A65DE0269B2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BF9793F3-5CE8-4288-849E-31FF4A47C186}
+	EndGlobalSection
+EndGlobal
