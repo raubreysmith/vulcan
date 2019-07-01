@@ -1,3 +1,5 @@
+Reference only - original repo and implementation in Azure DevOps 
+
 # About
 
 This .NET solution aims to serve as a learning space for development and testing within the Microsoft ecosystem.
